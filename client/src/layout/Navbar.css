@@ -3,3 +3,7 @@
 #nav-container{
     background-color: rgb(253, 184, 184);
 }
+
+.navbar-brand{
+    width: 55px;
+}
