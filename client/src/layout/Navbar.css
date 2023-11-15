@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 #nav-container{
-    background-color: rgb(253, 184, 184);
+    background-color: var(--palette-black-);
 }
 
 .navbar-brand{

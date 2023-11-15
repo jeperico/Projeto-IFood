@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+:root {
+    --palette-black: #000000;
+    --palette-black-: #222222;
+    --palette-white: #FFFFFF;
+    --palette-white-: #F2F7F2;
+    --palette-red: #FF0007;
+    --palette-red-: #F4442E;
+    --color-green: #BBFFB0;
+}
